@@ -1,2 +1,2 @@
-# Juju
+# Jùjú
 Jùjú, Inc. 
